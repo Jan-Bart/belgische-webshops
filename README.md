@@ -20,6 +20,7 @@ Een alfabetische lijst met Belgische online winkels #kooplokaal
 | Fred & Ginger               | https://www.fredginger.com         |
 | Fun                         | https://www.fun.be                 |
 | JBC                         | https://www.jbc.be                 |
+| Joma Moto                   | https://www.jomamoto.com           |
 | Lattoflex                   | https://lattoflex.be               |
 | LolaLiza                    | https://www.lolaliza.com           |
 | Maxi Toys                   | https://www.maxitoys.be            |

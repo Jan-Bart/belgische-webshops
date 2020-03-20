@@ -12,12 +12,15 @@ Een alfabetische lijst met Belgische online winkels #kooplokaal
 | CKS                         | https://www.cks-fashion.com        |
 | Colora                      | https://www.colora.be              |
 | Damart Belux                | http://www.damart.be               |
+| Dreamland                   | https://www.dreamland.be           |
 | Di                          | https://www.di.be                  |
 | E5 Mode                     | https://www.e5mode.be              |
+| Fatdaddy                    | https://www.ridefatdaddy.com       |
 | Fnac                        | https://www.nl.fnac.be             |
 | Fred & Ginger               | https://www.fredginger.com         |
 | Fun                         | https://www.fun.be                 |
 | JBC                         | https://www.jbc.be                 |
+| Joma Moto                   | https://www.jomamoto.com           |
 | Lattoflex                   | https://lattoflex.be               |
 | LolaLiza                    | https://www.lolaliza.com           |
 | Maxi Toys                   | https://www.maxitoys.be            |

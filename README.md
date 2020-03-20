@@ -1,4 +1,4 @@
-# Belgische-webshops
+# Belgische webshops
 Een alfabetische lijst met Belgische online winkels #kooplokaal
 
 

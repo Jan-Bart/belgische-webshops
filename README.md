@@ -12,6 +12,7 @@ Een alfabetische lijst met Belgische online winkels #kooplokaal
 | CKS                         | https://www.cks-fashion.com        |
 | Colora                      | https://www.colora.be              |
 | Damart Belux                | http://www.damart.be               |
+| Dreamland                   | https://www.dreamland.be           |
 | Di                          | https://www.di.be                  |
 | E5 Mode                     | https://www.e5mode.be              |
 | Fnac                        | https://www.nl.fnac.be             |

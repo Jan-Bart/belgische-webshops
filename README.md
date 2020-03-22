@@ -1,8 +1,9 @@
 # Belgische webshops
 Een alfabetische lijst met Belgische online winkels #kooplokaal
 
-- https://slagersonline.be/be-nl/
+- https://www.apotheek.be/
 - https://bakkersonline.be/be-nl/
+- https://slagersonline.be/be-nl/
 
 ## Winkels
 

@@ -3,6 +3,7 @@ Een alfabetische lijst met Belgische online winkels #kooplokaal
 
 - https://www.apotheek.be/
 - https://bakkersonline.be/be-nl/
+- https://kooplokaal.gent
 - https://slagersonline.be/be-nl/
 
 ## Winkels

@@ -1,11 +1,17 @@
 # Belgische webshops
 Een alfabetische lijst met Belgische online winkels #kooplokaal
 
+## Andere initiatieven
+
 - https://www.apotheek.be/
 - https://bakkersonline.be/be-nl/
+- https://www.kaabee.be/
 - https://kooplokaal.gent
+- https://kopeninbelgie.be/
+- https://www.shopa.be/
 - https://slagersonline.be/be-nl/
 - https://www.troovay.be/
+- https://wijblijvendoorgaan.be/
 
 ## Winkels
 

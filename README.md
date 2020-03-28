@@ -5,6 +5,7 @@ Een alfabetische lijst met Belgische online winkels #kooplokaal
 - https://bakkersonline.be/be-nl/
 - https://kooplokaal.gent
 - https://slagersonline.be/be-nl/
+- https://www.troovay.be/
 
 ## Winkels
 

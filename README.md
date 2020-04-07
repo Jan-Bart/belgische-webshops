@@ -7,6 +7,7 @@ Een alfabetische lijst met Belgische online winkels #kooplokaal
 - https://bakkersonline.be/be-nl/
 - https://eshopantwerpen.be/
 - https://www.groenvanbijons.be/
+- https://ikkoopantwerps.be
 - https://ikkoopbelgisch.be/nl
 - https://www.kaabee.be/
 - https://kooplokaal.gent

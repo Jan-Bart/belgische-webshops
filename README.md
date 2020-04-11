@@ -19,6 +19,7 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 - https://www.shopa.be
 - https://slagersonline.be/be-nl/
 - https://www.troovay.be
+- https://wearelocal.lazysundays.be/nl/wearelocal
 - https://wijblijvendoorgaan.be
 
 ## Winkels

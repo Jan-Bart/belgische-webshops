@@ -8,7 +8,7 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 
 - https://www.apotheek.be
 - https://bakkersonline.be/be-nl/
-- https://eshopantwerpen.be/
+- https://eshopantwerpen.be
 - https://www.groenvanbijons.be
 - https://ikkoopantwerps.be
 - https://ikkoopbelgisch.be/nl
@@ -16,10 +16,11 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 - https://kooplokaal.gent
 - https://kooplokaalensteun.be
 - https://kopeninbelgie.be
+- https://www.mercibelgie.be
 - https://www.shopa.be
 - https://slagersonline.be/be-nl/
 - https://www.troovay.be
-- https://vlaamsewebwinkel.be/
+- https://vlaamsewebwinkel.be
 - https://wearelocal.lazysundays.be/nl/wearelocal
 - https://wijblijvendoorgaan.be
 

@@ -1,7 +1,7 @@
 # Belgische webshops
 Een alfabetische lijst met Belgische online winkels #kooplokaal
 
-Zelf een initiatief of webshop toevoege?
+Zelf een initiatief of webshop toevoegen?
 Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 
 ## Andere initiatieven
@@ -42,6 +42,7 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 | Di                          | https://www.di.be                               |
 | E5 Mode                     | https://www.e5mode.be                           |
 | Fatdaddy                    | https://www.ridefatdaddy.com                    |
+| Feluce                      | https://www.feluce.be/nl                        | 
 | Fnac                        | https://www.nl.fnac.be                          |
 | Fred & Ginger               | https://www.fredginger.com                      |
 | Fun                         | https://www.fun.be                              |
@@ -49,6 +50,8 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 | JBC                         | https://www.jbc.be                              |
 | Joma Moto                   | https://www.jomamoto.com                        |
 | Lattoflex                   | https://lattoflex.be                            |
+| Leddepot                    | https://www.leddepot.be                         |
+| Ledspot Planet              | https://www.ledspot-planet.com                  | 
 | LolaLiza                    | https://www.lolaliza.com                        |
 | MateriaalMagazijn           | https://www.materiaalmagazijn.be                |
 | Maxi Toys                   | https://www.maxitoys.be                         |

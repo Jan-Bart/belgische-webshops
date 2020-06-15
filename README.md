@@ -10,6 +10,7 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 - https://bakkersonline.be/be-nl/
 - https://eshopantwerpen.be
 - https://www.groenvanbijons.be
+- https://handymade.be/nl/
 - https://ikkoopantwerps.be
 - https://ikkoopbelgisch.be/nl
 - https://www.kaabee.be

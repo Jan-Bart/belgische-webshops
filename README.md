@@ -32,6 +32,7 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 | --------------------------- | ----------------------------------------------- |
 | A.S. Adventure              | https://www.asadventure.com                     |
 | Bel & Bo                    | https://www.bel-bo.be                           |
+| Biobey                      | https://www.biobey.be                           |
 | Brantano                    | https://www.brantano.be                         |
 | Bristol                     | https://bristolshop.be                          |
 | Caroline Biss               | https://www.carolinebiss.com                    |

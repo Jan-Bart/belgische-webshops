@@ -8,6 +8,7 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 
 - https://www.apotheek.be
 - https://bakkersonline.be/be-nl/
+- https://belgiangiftguide.be
 - https://eshopantwerpen.be
 - https://www.groenvanbijons.be
 - https://handymade.be/nl/

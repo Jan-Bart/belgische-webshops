@@ -18,8 +18,9 @@ Open [een issue](https://github.com/Jan-Bart/belgische-webshops/issues).
 - https://kooplokaal.gent
 - https://kooplokaalensteun.be
 - https://kopeninbelgie.be
-- https://koopinjebuurt.be/
+- https://koopinjebuurt.be
 - https://www.mercibelgie.be
+- https://onzeondernemers.online
 - https://www.shopa.be
 - https://slagersonline.be/be-nl/
 - https://www.troovay.be
